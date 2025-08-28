@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPreferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <windowPositionX>80</windowPositionX>
+  <windowPositionY>80</windowPositionY>
+  <clicksPerSecond>0</clicksPerSecond>
+  <toggleHotkey>0</toggleHotkey>
+  <toggleHotkey2>0</toggleHotkey2>
+  <sprintHotkey>0</sprintHotkey>
+  <autoToggleOff>0</autoToggleOff>
+  <worksOnlyInMinecraft>0</worksOnlyInMinecraft>
+  <playSound>0</playSound>
+  <aimComplementPhysic>0</aimComplementPhysic>
+</ApplicationPreferences>
